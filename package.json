@@ -15,7 +15,7 @@
     "node": ">=0.6.0"
   },
   "dependencies": {
-    "ejs": "0.8.x"
+    "ejs": "git+https://github.com/virteman/ejs.git#e0be933592860def266638e51149b0b5c8a0158d"
   },
   "devDependencies": {
     "express": "~3.0.0",
